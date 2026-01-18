@@ -1,0 +1,20 @@
+{
+  "Group": "$pluginGroup",
+  "Name": "$pluginId",
+  "Main": "com.template.hygradle.TemplatePlugin",
+  "Version": "$version",
+  "Description": "$pluginDescription",
+  "Authors": [
+    {
+      "Name": "$author",
+      "Email": "$email",
+      "Url": "$authorWebsite"
+    }
+  ],
+  "website": "$pluginWebsite",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
