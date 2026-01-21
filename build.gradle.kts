@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("net.wiredtomato.hygradle") version "0.2.2"
+    id("net.wiredtomato.hygradle") version "0.2.4"
 }
 
 group = "net.wiredtomato"
